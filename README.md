@@ -1,2 +1,2 @@
 # TriAngular
-This program created just for learning a GitHub
+This program created for learning a Geometry :)
